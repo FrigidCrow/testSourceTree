@@ -36,6 +36,8 @@ public class Person {
         char d  = 'a';
 
         boolean e = true;
+        
+        // 不可 if(x)
 
         if (x != 0)
         {
